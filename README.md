@@ -34,7 +34,7 @@ javascript:fetch("https://raw.githubusercontent.com/snowhell/dsaiojod0amdsa/refs
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
     <a href="https://pixgg.com/im_snow"><img width="7%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
