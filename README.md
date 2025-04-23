@@ -28,6 +28,18 @@ javascript:fetch("https://raw.githubusercontent.com/snowhell/dsaiojod0amdsa/refs
 
 ---
 
+---
+<p align="center">
+<sub><i>clique abaixo para entrar no servidor do discord ou doar</i></sub>
+</div>
+
+<p align="center">
+    <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+  &nbsp;
+    <a href="https://pixgg.com/im_snow"><img width="7%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+</p>
+
+
 <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=MicrobitMakerUser&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
@@ -39,6 +51,5 @@ javascript:fetch("https://raw.githubusercontent.com/snowhell/dsaiojod0amdsa/refs
   <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
   <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Snow!</h3>
 </div>
-
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f71d40&section=footer"/></a>
